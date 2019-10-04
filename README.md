@@ -6,6 +6,7 @@ This website is built using React JS
 
 Once you have installed npm to your machine and downloaded this repo. Go into the `nmtb-website` folder in a terminal and put the command `npm start` to get this motha up and running. If you have any problems contact Tristan.
 
+Initial NICA website: https://nevadamtb.org/
 
 ## MAC Users
 1. install node.js at https://www.npmjs.com/get-npm
