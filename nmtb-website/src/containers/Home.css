@@ -1,0 +1,40 @@
+.Home .lander {
+  padding: 300px 0;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: #FFF
+}
+
+.Home .lander p {
+  color: #FFF;
+}
+
+.Home .words{
+  padding: 50px 0;
+  text-align: center;
+}
+
+.Home .words h1{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: #000
+}
+.Home .words p {
+  color: #000;
+}
+.buttonDiv{
+  display: flex;
+  width: 14%;
+  justify-content: right;
+}
+btn-toolbar{
+display: flex;
+justify-content: center;
+}

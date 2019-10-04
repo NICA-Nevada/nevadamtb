@@ -1,0 +1,14 @@
+.Features .lander {
+  padding: 30px 0;
+  text-align: center;
+}
+
+.Features .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: #000
+}
+
+.Features .lander p {
+  color: #000;
+}

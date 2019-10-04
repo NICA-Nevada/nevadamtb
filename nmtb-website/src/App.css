@@ -1,0 +1,22 @@
+.App {
+  margin-top: 15px;
+  width: 100%;
+}
+
+.App .TopNav{
+  width: 100%;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.footer{
+  background-color: #E4E6E0;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+h5{
+  font-family: "Open Sans", sans-serif;
+}
